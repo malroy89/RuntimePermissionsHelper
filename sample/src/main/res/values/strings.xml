@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermissionsHelper</string>
+    <string name="permissions_rational_title">Help</string>
+    <string name="permissions_rational_message">Give that permission!!!11</string>
+</resources>
